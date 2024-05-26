@@ -11,11 +11,12 @@ Este website é voltado para o consultório de Enfermagem Saúde da Mulher, uma 
 git clone https://github.com/Miguel-Edson/Project_Website.git
 ```
 2. Instalar as Dependências:
+
    Tailwind css:
 ```bash
 npm install -D tailwindcss
 ```
-   ScrollBar:
+   Tailwind-scrollbar:
 ```bash
 npm install --save-dev tailwind-scrollbar
 ```
