@@ -11,22 +11,24 @@ Este website é voltado para o consultório de Enfermagem Saúde da Mulher, uma 
 git clone https://github.com/Miguel-Edson/Project_Website.git
 ```
 2. Instalar as Dependências:
-   React Dom:
-```bash
-npm install react react-dom
-```
    Tailwind css:
 ```bash
 npm install -D tailwindcss
+```
+   ScrollBar:
+```bash
+npm install --save-dev tailwind-scrollbar
+```
+   React Dom:
+```bash
+npm install react react-dom
 ```
    React-Slick:
 ```bash
 npm install react-slick --save
 ```
 
-   
-
-Para inicar o programa Localmente, utilize o comando:
+Para inicar o programa, utilize o comando:
 ```bash
 npm run start
 ```
